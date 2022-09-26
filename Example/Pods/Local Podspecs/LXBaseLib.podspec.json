@@ -1,0 +1,22 @@
+{
+  "name": "LXBaseLib",
+  "version": "0.1.0",
+  "summary": "A short description of LXBaseLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Aliffter/LXBaseLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aliffter": "zhaolongxiao1991@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Aliffter/LXBaseLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LXBaseLib/Classes/**/*"
+}

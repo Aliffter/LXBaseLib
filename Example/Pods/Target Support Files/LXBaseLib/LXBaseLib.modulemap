@@ -1,0 +1,6 @@
+framework module LXBaseLib {
+  umbrella header "LXBaseLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

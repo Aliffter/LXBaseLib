@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LXBaseLib (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LXBaseLib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LXBaseLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LXBaseLib: 1153a18f982938e59ec66ae2c18f8600c44bb3c1
+
+PODFILE CHECKSUM: 4e413fc5f666d01693a58b65f861df7004d5add2
+
+COCOAPODS: 1.11.3
