@@ -11,7 +11,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface UIView (frame)
 -(CGFloat)x;
+-(CGFloat)y;
+
 -(CGFloat)width;
+
+
 @end
 
 NS_ASSUME_NONNULL_END

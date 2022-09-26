@@ -12,6 +12,10 @@
     return self.frame.origin.x;
 }
 
+-(CGFloat)y{
+    return self.frame.origin.y;
+}
+
 -(CGFloat)width{
     return self.frame.size.width;
 }
