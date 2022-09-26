@@ -14,7 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(CGFloat)y;
 
 -(CGFloat)width;
-
+-(CGFloat)height;
 
 @end
 
